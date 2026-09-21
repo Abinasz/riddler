@@ -1,4 +1,4 @@
-# 🦇 The Riddler's Terminal (The Batman)
+# ❓ The Riddler's Terminal (The Batman)
 
 > *"Hello Vengeance... Eager to learn the locations, my little anarchy?"*
 
